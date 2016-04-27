@@ -4,3 +4,9 @@ c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Les
 c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.pdb
 c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.exe
 c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.pdb
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.exe.config
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.exe
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.pdb
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.exe
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.pdb
+C:\Users\LeonidC\Documents\Visual Studio 2013\Projects\Training\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.csprojResolveAssemblyReference.cache
