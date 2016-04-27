@@ -1,0 +1,6 @@
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.exe.config
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.csprojResolveAssemblyReference.cache
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.exe
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\bin\Debug\Lesson12_WhiteBlack_List.pdb
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.exe
+c:\users\lion\documents\visual studio 2013\Projects\Lesson12_WhiteBlack_List\Lesson12_WhiteBlack_List\obj\Debug\Lesson12_WhiteBlack_List.pdb
